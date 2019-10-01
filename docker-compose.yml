@@ -31,9 +31,9 @@ services:
                     memory: 100M
             restart_policy:
                 condition: on-failure
-                delay: 5s
-                max_attempts: 20
-                window: 380s
+                delay: 30s
+                max_attempts: 1000
+                window: 600s
             placement:
                 constraints:
                     - "node.platform.os == linux"
