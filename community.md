@@ -50,14 +50,16 @@ It would be great to hear from you especially if you have any of the above and w
 | Event name and description                                          | Speaker      | Location | Date        |
 |---------------------------------------------------------------------|--------------|----------|-------------|
 | [How we moved from JIRA to GitHub for fun and profit using Serverless](https://gotocph.com/2019/sessions/1016) | Edward Wilde | Copenhagen, Denmark | 19-Nov-2019 |
-| [OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform - KubeCon 2019, San Diego](https://kccncna19.sched.com/event/Uabn/openfaas-cloud-linkerd-a-secure-multi-tenant-serverless-platform-charles-pretzer-buoyant-alex-ellis-openfaas-ltd) | Charles Pretzer & Alex Ellis | San Diego, USA | 16-Nov-2019 |
 | [Meet Alex at KubeCon 2019, San Diego](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) | Alex Ellis | San Diego, USA | 18-Nov-2019 |
+| [OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform - KubeCon 2019, San Diego](https://kccncna19.sched.com/event/Uabn/openfaas-cloud-linkerd-a-secure-multi-tenant-serverless-platform-charles-pretzer-buoyant-alex-ellis-openfaas-ltd) | Charles Pretzer & Alex Ellis | San Diego, USA | 16-Nov-2019 |
 | [PLONK Stack - Prometheus, Linkerd, OpenFaaS, NATS, and Kubernetes @ Goto Berlin](https://gotober.com/2019/sessions/971) | Alex Ellis | Berlin, Germany | 23-Oct-2019 |
 | [Serverless 2.0: Get Started With The PLONK Stack](https://skillsmatter.com/conferences/11723-cloudnative-london-2019#program) | Alex Ellis | London, UK | 27-Sept-2019 |
 | [Serverless and the road to portability](https://techin.finance/featured-speaker-edward-wilde/) | Edward Wilde | Malaga, Spain | 20-Sept-2019 |
 | [OpenFaaS Bangalore meetup](https://www.meetup.com/OpenFaaS-Community/events/264414959/) | Various | Bangalore, India | 14-Sept-2019 |
 | [Chicago Kubernetes Meetup: Going Serverless w/OpenFaaS + K8s Networking Revealed](https://www.meetup.com/Chicago-Kubernetes/events/262973241) | Saba Jamalian | Chicago, USA | 24-Jul-2019 |
 | [Serverless Week](https://slsweek.netlify.com) | Several | Online, Brazil | 22-Jul-2019 to 26-Jul-2019 |
+| [Unlocking your serverless functions with OpenFaaS for AI chatbot projects](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105) | Sergio Méndez @sergioarmgpl | OSCON, Portland Oregon | 17-Jul-2019 |
+| [Cloud Native Edinburgh](https://www.slideshare.net/mobile/KeiranSmith4/open-faas-and-linkerd) | Keiran Smith (@CLI) | Edinburgh Scotland | 16-Jul-2019 |
 | [Deploying Go Functions @ GoWayFest](https://goway.io) | Julien Bisconti | Minsk, Belarus | 05-Jul-2019 |
 | [Serverless Functions Frameworks : OpenFaaS Day](https://www.meetup.com/Cloud-Native-Computing-Belo-Horizonte/events/262673508/) | Marcelo Umberto and Jefferson Otoni Lima | Belo Horizonte, Brazil | 04-Jul-2019 |
 | [ContainerDays EU: Kubernetes and AWS Lambda can play nicely together with OpenFaaS](https://www.containerdays.io/program/) | Edward Wilde | ContainerDays | 25-June-2019 |
@@ -95,14 +97,13 @@ It would be great to hear from you especially if you have any of the above and w
 | [PythonPy Meetup Enero 2019](https://www.meetup.com/es-ES/Python-Paraguay/events/258171808) | Patricio Diaz | Asuncion, PY | 24-Jan-2019 |
 | [Docker and serverless: meetup](https://events.docker.com/events/details/docker-randstad-presents-docker-and-serverless/#/) | Edward Wilde | Utrecht, Netherlands | 24-Jan-2019 |
 | Docker Paraguay Meetup Enero 2019 | Patricio Diaz | Asuncion, PY | 04-Jan-2019 |
-| [Cloud Native Edinburgh](https://www.slideshare.net/mobile/KeiranSmith4/open-faas-and-linkerd) | Keiran Smith (@CLI) | Edinburgh Scotland | 16-Jul-2019 |
-| [Unlocking your serverless functions with OpenFaaS for AI chatbot projects](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105) | Sergio Méndez @sergioarmgpl | OSCON, Portland Oregon | 17-Jul-2019 |
 
 #### Blog posts and write-ups 2019
 [Back to top](#openfaas-community)
 
 | Blog/repo name and description                                          | Author       | Site     | Date        |
 |---------------------------------------------------------------------|--------------|----------|-------------|
+| [Getting Started with OpenFaaS and the OpenFaaS Community Cluster](https://mickey.dev/posts/getting-started-with-openfaas/) | [Josh Michielsen](https://twitter.com/jmickey_) | mickey.dev | 30-Sept-2019 |
 | [Functions 101 - SOSC2019](https://cloud-pg.github.io/SOSC2019/events/) | Diego Ciangottini | cloud-pg.github.io | 20-Sep-2019 |
 | [Mail from Slack by OpenFaaS Cloud](https://medium.com/red-gold/mail-from-slack-by-openfaas-6eeee2228cec) | Amir Movahedi | medium.com | 31-Aug-2019 |
 | [Deploying Machine Learning models with OpenFaaS with Warm Start](https://medium.com/@dwipam.katariya/deploying-machine-learning-models-with-openfaas-857f1ba0e9c2) | Dwipam Katariya | medium.com | 16-Aug-2019 |
