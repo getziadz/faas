@@ -94,9 +94,9 @@ services:
                     memory: 100M
             restart_policy:
                 condition: on-failure
-                delay: 5s
+                delay: 30s
                 max_attempts: 20
-                window: 380s
+                window: 600s
         secrets:
             - basic-auth-user
             - basic-auth-password
